@@ -10,6 +10,8 @@ django = "*"
 psycopg2-binary = "*"
 pillow = "*"
 djangorestframework = "*"
+requests = "*"
+bs4 = "*"
 
 [requires]
 python_version = "3.8"
