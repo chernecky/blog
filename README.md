@@ -1,1 +1,1 @@
-# the blog involves posting news
+# news from the world of it technologies, sports, currency exchange rates.
